@@ -1,7 +1,7 @@
 
 # R-Proxy
 
-A brief description of what this project does and who it's for
+Simplified Reverse Proxy Management.
 
 
 ## Features
