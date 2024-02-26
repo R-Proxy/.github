@@ -1,33 +1,39 @@
-
-# R-Proxy
+# 🔄 R-Proxy
 
 Simplified Reverse Proxy Management.
 
+---
 
-## Features
+## ✨ Features
 
-- Easy install with Docker
-- Easy Dashboard Management
-- HTTP, HTTPS, TCP & UDP Support
-- Opensource
-## Authors
+- Easy install with Docker 🐳
+- Effortless Dashboard Management 🖥️
+- Supports HTTP, HTTPS, TCP & UDP 🌐
+- Fully Opensource 🛠️
 
-- [@jkvn](https://www.github.com/jkvn)
-- [@swnck](https://www.github.com/swnck)
-- [@slxca](https://www.github.com/slxca)
+---
 
+## 👥 Authors
 
-## Tech Stack
+[![jkvn](https://avatars.githubusercontent.com/u/55063773?v=4&s=50)](https://www.github.com/jkvn) 
+[![swnck](https://avatars.githubusercontent.com/u/83925560?v=4&s=50)](https://www.github.com/swnck) 
+[![slxca](https://avatars.githubusercontent.com/u/93574921?v=4&s=50)](https://www.github.com/slxca)
+
+---
+
+## 🛠️ Tech Stack
 
 **Client:** NextJS, TailwindCSS
 
 **Server:** Spring, SQLite
 
+---
 
-## Used By
+## 🌟 Used By
 
-This project is used by the following companies/projects:
+[![Synclyn Logo](https://avatars.githubusercontent.com/u/143539126?v=4&s=50)](https://www.github.com/Synclyn) 
+[![Upronix Logo](https://avatars.githubusercontent.com/u/159083527?v=4&s=50)](https://www.github.com/Upronix) 
 
-- Synclyn
-- Upronix
+---
 
+Feel free to reach out for any inquiries or support! 📩
