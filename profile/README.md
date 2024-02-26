@@ -23,9 +23,9 @@ Simplified Reverse Proxy Management.
 
 ## 🛠️ Tech Stack
 
-**Client:** NextJS, TailwindCSS
+**Frontend (Dashboard):** NextJS, TailwindCSS
 
-**Server:** Spring, SQLite
+**Backend:** Spring, SQLite
 
 ---
 
