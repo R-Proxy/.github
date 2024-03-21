@@ -27,7 +27,7 @@ R-Proxy is a completely open-source project which gives you the best experience 
 ## Used By
 
 [![Synclyn Logo](https://avatars.githubusercontent.com/u/143539126?v=4&s=50)](https://www.github.com/Synclyn) 
-[![Upronix Logo](https://avatars.githubusercontent.com/u/159083527?v=4&s=50)](https://www.github.com/Upronix) 
+[![Upronix Logo](https://avatars.githubusercontent.com/u/159083527?v=4&s=50)](https://www.github.com/UpronixApp) 
 
 ## Support and Questions
 
